@@ -1,2 +1,1 @@
-#  loremaster Apple VisionOS
-
+# loremaster VisionOS Interface
